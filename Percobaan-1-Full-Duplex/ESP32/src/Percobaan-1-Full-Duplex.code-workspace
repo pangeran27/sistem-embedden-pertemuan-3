@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "ESP32",
+			"path": ".."
+		},
+		{
+			"name": "STM32",
+			"path": "../../STM32"
+		}
+	],
+	"settings": {}
+}

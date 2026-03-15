@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Modul-02-Interrupt-Timer/praktikum/STM32"
+		},
+		{
+			"name": "STM32_01_EXTI_Interrupt",
+			"path": "../Modul-02-Interrupt-Timer/praktikum/STM32/STM32_01_EXTI_Interrupt"
+		},
+		{
+			"name": "STM32_04_Button_Debounce_State_Machine",
+			"path": "../Modul-01-GPIO-Digital-IO/praktikum/STM32/STM32_04_Button_Debounce_State_Machine"
+		}
+	],
+	"settings": {}
+}
